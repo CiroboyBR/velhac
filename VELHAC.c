@@ -1,7 +1,7 @@
 #include <allegro.h>
 #include <stdio.h>
 
-#include "ENGINE_CIRO_VELHA2.h"
+#include "VELHAc.h"
 
 #define COLUNA_1     100
 #define COLUNA_2     220
